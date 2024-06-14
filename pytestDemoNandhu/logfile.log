@@ -1,0 +1,32 @@
+2024-05-26 13:39:46,936 : INFO : pytestDemoNandhu.test_logging : Information statement
+2024-05-26 13:39:46,937 : WARNING : pytestDemoNandhu.test_logging : Something is in warning mode
+2024-05-26 13:39:46,937 : ERROR : pytestDemoNandhu.test_logging : A major error has happened
+2024-05-26 13:39:46,937 : CRITICAL : pytestDemoNandhu.test_logging : Critical Issue
+2024-05-26 13:39:59,097 : INFO : pytestDemoNandhu.test_logging : Information statement
+2024-05-26 13:39:59,098 : WARNING : pytestDemoNandhu.test_logging : Something is in warning mode
+2024-05-26 13:39:59,098 : ERROR : pytestDemoNandhu.test_logging : A major error has happened
+2024-05-26 13:39:59,098 : CRITICAL : pytestDemoNandhu.test_logging : Critical Issue
+2024-05-26 13:41:39,587 : INFO : pytestDemoNandhu.test_logging : Information statement
+2024-05-26 13:41:39,619 : WARNING : pytestDemoNandhu.test_logging : Something is in warning mode
+2024-05-26 13:41:39,619 : ERROR : pytestDemoNandhu.test_logging : A major error has happened
+2024-05-26 13:41:39,620 : CRITICAL : pytestDemoNandhu.test_logging : Critical Issue
+2024-05-26 15:01:21,677 : INFO : pytestDemoNandhu.BaseClass : Information statement
+2024-05-26 15:01:21,724 : WARNING : pytestDemoNandhu.BaseClass : Something is in warning mode
+2024-05-26 15:01:21,724 : ERROR : pytestDemoNandhu.BaseClass : A major error has happened
+2024-05-26 15:01:21,724 : CRITICAL : pytestDemoNandhu.BaseClass : Critical Issue
+2024-05-26 15:04:01,576 : INFO : pytestDemoNandhu.BaseClass : Information statement
+2024-05-26 15:04:01,576 : WARNING : pytestDemoNandhu.BaseClass : Something is in warning mode
+2024-05-26 15:04:01,577 : ERROR : pytestDemoNandhu.BaseClass : A major error has happened
+2024-05-26 15:04:01,577 : CRITICAL : pytestDemoNandhu.BaseClass : Critical Issue
+2024-05-26 15:13:47,965 : INFO : test_editProfile : Information statement
+2024-05-26 15:13:48,007 : WARNING : test_editProfile : Something is in warning mode
+2024-05-26 15:13:48,008 : ERROR : test_editProfile : A major error has happened
+2024-05-26 15:13:48,008 : CRITICAL : test_editProfile : Critical Issue
+2024-05-26 15:25:03,363 :INFO : test_editProfile :rahul
+2024-05-26 15:25:03,377 :INFO : test_editProfile :RahulShettyAcademy.com
+2024-05-26 15:26:29,161 :INFO : test_editProfile :rahul
+2024-05-26 15:26:29,162 :INFO : test_editProfile :RahulShettyAcademy.com
+2024-05-26 15:26:29,178 : INFO : pytestDemoNandhu.test_logging : Information statement
+2024-05-26 15:26:29,178 : WARNING : pytestDemoNandhu.test_logging : Something is in warning mode
+2024-05-26 15:26:29,178 : ERROR : pytestDemoNandhu.test_logging : A major error has happened
+2024-05-26 15:26:29,178 : CRITICAL : pytestDemoNandhu.test_logging : Critical Issue
